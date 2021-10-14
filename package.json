@@ -1,20 +1,20 @@
 {
-  "name": "RavanaBot",
+  "name": "isuruBot",
   "version": "4.0.1",
-  "description": "RAVANA project - Makes it easy and fun to use Whatsapp",
-  "main": "./4.0/bot.js",
+  "description": "ISURU project - Makes it easy and fun to use Whatsapp",
+  "main": "./1.0/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agentmax123/4.0.git"
+    "url": "git+https://github.com/agentmax123/1.0.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
-    "ravanawabot"
+   "isuruwabot"
   ],
   "author": "farhan-dqz",
   "developer": "@TOXIC-DEVIL / @farhan-dqz",
@@ -48,7 +48,7 @@
     "g-i-s": "^2.1.6",
     "google-translate-tts": "^0.3.0",
     "got": "^11.8.2",
-    "heroku-client": "^3.1.0",
+    "heroku-client": "^3.1.0.4",
     "jimp": "0.16.0",
     "js-ffmpeg": "0.0.26",
     "jsdom": "^16.5.1",
