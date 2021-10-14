@@ -1,7 +1,7 @@
-FROM SL_RAVANA_TEAM/slRavana:latest
+FROM isuwabrooo_TEAM/isuru-dena:latest
 
-RUN git clone https://github.com/RAVANA-SL/slRavana /root/slRavana
-WORKDIR /root/slRavana/
+RUN git clone https://github.com/isuwabrooo/isuru-dena /root/slRavana
+WORKDIR /root/isuru-dena/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
