@@ -1,14 +1,14 @@
 {
-    "name": "RAVANA",
-    "description": "RavanaBot is the Modified Version of WhatsAsena, Made By @RAVANA_SL Team with Baileys.",
+    "name": "ISURU",
+    "description": "isurudenaBot is the Modified Version of WhatsAsena, Made By @isuwabrooo Team with Baileys.",
     "logo": "https://telegra.ph/file/d61b511f6769c96bb7424.jpg",
     "keywords": ["whatsapp", "userbot", "ravana", "WhatsAsena", "srilanka", "bot", "ai"],
-    "repository": "https://github.com/RAVANA-SL/slRavana",
-    "website":   "https://github.com/RAVANA-SL/slRavana",
-    "success_url": "https://github.com/RAVANA-SL/slRavana",
+    "repository": "https://github.com/isuwabrooo/isuru-dena",
+    "website":   "https://github.com/isuwabrooo/isuru-dena",
+    "success_url": "https://github.com/isuwabrooo/isuru-dena",
     "stack": "container",
     "env": {
-        "RAVANA_SESSION": {
+        "ISUWA_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
@@ -105,7 +105,7 @@
             "value": "default"
         },
         "BOT_NAME": {
-            "description": "heading for .ravana command reply",
+            "description": "heading for .isuru-dena command reply",
             "required": false
         },
         "WORK_TYPE": {
@@ -137,7 +137,7 @@
             "value": "default"
         },
         "MENU_LOGO": {
-            "description": "You Can Customiz Ravana-Bot Menu Logo. get image links use this site => https://telegra.ph/",
+            "description": "You Can Customiz isurudena-Bot Menu Logo. get image links use this site => https://telegra.ph/",
             "required": false,
             "value": "https://telegra.ph/file/196687b452f1a1a49079c.jpg"
         },
