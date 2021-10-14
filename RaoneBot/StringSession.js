@@ -1,4 +1,4 @@
-//https://github.com/RAVANA-SL/slRavana
+//https://github.com/isuwabrooo/isuru-dena
 
 const fs = require('fs');
 
@@ -7,7 +7,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('RAVANA_SESSION' in process.env && string === undefined) {
+        if ('ISURU_SESSION' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
@@ -22,7 +22,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'RAVANA;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'ISURU;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
