@@ -1,4 +1,4 @@
-//https://github.com/RAVANA-SL/slRavana
+//https://github.com/isuwabrooo/isuru-dena
 
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
@@ -15,7 +15,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v4.0 stable',
     CHANNEL: 'https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug',
-    SESSION: process.env.RAVANA_SESSION === undefined ? '' : process.env.RAVANA_SESSION,
+    SESSION: process.env.ISURU_SESSION === undefined ? '' : process.envISURU_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBIO: process.env.AUTO_BIO === undefined ? 'false' : process.env.AUTO_BIO,
     BIOTEXT: process.env.BIOTEXT === undefined ? 'ravanabot@whatsapp.net' : process.env.BIOTEXT,
@@ -77,6 +77,6 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "94714898434-1622727009",
-    SUPPORT2: "94714898434-1626232632"
+    SUPPORT: "94783800632-1622727009",
+    SUPPORT2: "94783800632-1626232632"
 };
