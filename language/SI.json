@@ -1,10 +1,10 @@
 {
-    "__RAVANAJSON__": true,
+    "__ISURUJSON__": true,
     "LANGUAGE": "Sinhala",
     "LANGCODE": "si",
-    "AUTHOR": "HACKER RAVANA",
+    "AUTHOR": "HACKER ISURU",
     "STRINGS": {
-        "_ravana": {
+        "_isuru": {
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
