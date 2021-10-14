@@ -1,7 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone hhttps://github.com/RAVANA-SL/slRavana /root/slRavana
-WORKDIR /root/slRavana/
+RUN git clone hhttps://github.com/isuwabrooo/isuru-dena/root/isuru-dena
+WORKDIR /root/isuru-denat/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
