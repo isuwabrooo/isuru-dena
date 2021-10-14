@@ -1,17 +1,17 @@
    <div align="center">
    
-   ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
-   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
+   ### ISUWA BOT 🤴🪀 By ISUWABBROOO_TEAME            
+   [![Profile views](https://komarev.com/ghpvc/?usernae=isuwabrooo&label=Profile%20Views&color=red)](https://github.com/isuwabrooo/isuru-dena)
    
- [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
+ [![Typing SVG]()
   
   </div>
 
 
 
 
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="600" height="600"/>
+<div align="cen. er">
+  <img border-radius: 15px "/>
  
 
   
