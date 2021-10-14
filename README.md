@@ -41,14 +41,14 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click Whatsapp logo to Join Support Group 🤴👇
 <br>
 <br>
-  [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/Fo65f7TcUjx9FUJlFCSZks)
+  [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/HO301skeWzxJSZhfb3W9OY)
   
   </a>
 </div>
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/RAVANA)](https://replit.com/@RAVANASL/RAVANA-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/ISURU)](https://replit.com/@RAVANASL/RAVANA-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
      </div>
@@ -63,15 +63,15 @@ Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ 
 
 ## Developers
     
-  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
+  [![ISURU](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
 ----|----
-[RAVANA-SL](https://github.com/RAVANA-SL)  | [MrChaby](https://github.com/MrChaby) 
+[ISURU](https://github.com/isuwabrooo)  | [MrChaby](https://github.com/MrChaby) 
 Developer,Bug Fixes, Commits, Modules | Code Owner: Bug Fixes, Modules 
 
     
 
 # License
-slRavana is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+isuru dena is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
 
