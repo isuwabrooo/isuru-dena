@@ -1,4 +1,4 @@
-//https://github.com/RAVANA-SL/slRavana
+//https://github.com/isuwabrooo/isuru-dena
 
 const {MessageType, Presence, MessageOptions} = require('@adiwajshing/baileys');
 const Base = require('./Base');
